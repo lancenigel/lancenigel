@@ -1,6 +1,6 @@
 # Hello, I'm Lance! 👋
 
-I'm a fourth-year student at the University of Toronto with a passion for technology, software development, and development. With a background in computer science and a strong foundation in software engineering, I'm on a journey to make a meaningful impact through code and innovation.
+I'm a fourth-year student at the University of Toronto with a passion for technology, software development, and development. With a computer science background and a strong software engineering foundation, I'm on a journey to make a meaningful impact through code and innovation.
 
 **Note: I had access to private Github accounts during my internships, and thus these accounts/contributions are not all public.**
 
@@ -19,13 +19,13 @@ I'm a fourth-year student at the University of Toronto with a passion for techno
 
 ## 📚 My Interests
 
-Apart from coding, I have a deep passion for staying active and exploring the outdoors. Here are some of my favorite activities:
+Apart from coding, I have a deep passion for staying well-rounded. Here are some of my favorite activities:
 
-- **Ultimate Frisbee** 🥏 - played the ultimate team in high school, playing recreationally to this day!
+- **Running:** 🏃 - currently training for a marathon!
 
-- **Swimming:** 🏊‍♂️ - helped out with lifeguarding a bit for Dynamo, swam for 10+ years
+- **Trying new foods:** 🍲 - have tracked a list of 200+ restaurants I've eaten at 
 
-- **Hiking:** 🌲 - legal requirement of living in Vancouver
+- **Gaming:** 👾 - love anything to do with pokémon!
 
 
 Always open to making new friends or just to chat, so feel free to reach out to me on [LinkedIn.](https://www.linkedin.com/in/lancenigel/)
