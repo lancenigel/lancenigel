@@ -9,11 +9,14 @@ Welcome to my page! I'm currently in my fourth year at the University of Toronto
 
 ### Karpool (Summer 2023)
 • Utilized React Native, MongoDB, and Node.js within an Azure ecosystem for end-to-end full-stack development.
+
 • Pioneered the integration of the Stripe API, which reduced payment processing times by 25% and improved transaction success rates by 30%. This enhancement was pivotal in elevating the app's functionality.
+
 • Handled comprehensive responsibilities from front-end aesthetics to back-end structuring, including database management and deployment on Azure.
 
 ### Global Spark (Winter 2023)
 • Led the creation and implementation of responsive web applications with cutting-edge front-end tools, markedly boosting user interaction.
+
 • Worked collaboratively in a multicultural team setting to craft and execute user-friendly interfaces, enhancing both user experience and accessibility.
 
 
