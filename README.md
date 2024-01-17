@@ -1,39 +1,39 @@
 # Hello, I'm Lance! 👋
 
-I'm a fourth-year student at the University of Toronto with a passion for technology, software development, and development. With a computer science background and a strong software engineering foundation, I'm on a journey to make a meaningful impact through code and innovation.
+Welcome to my page! I'm currently in my fourth year at the University of Toronto, deeply immersed in the realms of technology and software development. My journey is fueled by a blend of computer science knowledge and a robust foundation in software engineering. I'm driven by the ambition to create a significant impact in the world through innovative coding practices.
 
-**Note: I had access to private Github accounts during my internships, and thus these accounts/contributions are not all public.**
+**Important Note: During my internships, I worked with private GitHub repositories. As a result, not all of my contributions are visible publicly.**
 
 
 ## 💼 Previous Experience
 
 ### Karpool (Summer 2023)
-• Leveraged React Native, MongoDB, and Node.js in Azure environment for comprehensive full-stack development.
-• Led the seamless integration of the Stripe API, leading to a 25% decrease in payment processing time and a 30% increase in successful transactions, thereby significantly enhancing app functionality.
-• Executed end-to-end responsibilities, including front-end design, back-end architecture, database management, and deployment on Azure.
+• Utilized React Native, MongoDB, and Node.js within an Azure ecosystem for end-to-end full-stack development.
+• Pioneered the integration of the Stripe API, which reduced payment processing times by 25% and improved transaction success rates by 30%. This enhancement was pivotal in elevating the app's functionality.
+• Handled comprehensive responsibilities from front-end aesthetics to back-end structuring, including database management and deployment on Azure.
 
 ### Global Spark (Winter 2023)
-• Spearheaded the development and implementation of dynamic web applications using advanced front-end technologies, significantly elevating user engagement.
-• Collaborated with a diverse team to design and implement intuitive user interfaces, resulting in improved usability and accessibility.
+• Led the creation and implementation of responsive web applications with cutting-edge front-end tools, markedly boosting user interaction.
+• Worked collaboratively in a multicultural team setting to craft and execute user-friendly interfaces, enhancing both user experience and accessibility.
 
 
 ## 📚 My Interests
 
-Apart from coding, I have a deep passion for staying well-rounded. Here are some of my favorite activities:
+Coding is just one part of my life. I'm also passionate about various activities, including:
 
-- **Running:** 🏃 - currently training for a marathon!
+- **Running:** 🏃 - On my way to complete a marathon!
 
-- **Trying new foods:** 🍲 - have tracked a list of 200+ restaurants I've eaten at 
+- **Culinary Exploration:** 🍲 - Proudly explored over 200+ restaurants.
 
-- **Gaming:** 👾 - love anything to do with pokémon!
+- **Gaming:** 👾 - Avid fan of all things Pokémon.
 
 
-Always open to making new friends or just to chat, so feel free to reach out to me on [LinkedIn.](https://www.linkedin.com/in/lancenigel/)
-Take care, and happy new year :)
+I'm always up for making new connections or having a chat. Don't hesitate to connect with me on [LinkedIn.](https://www.linkedin.com/in/lancenigel/)
+Wishing you a fantastic year ahead! 😊
 
 ## Tools
 
-[![Skills:](https://skillicons.dev/icons?i=py,c,cpp,java,ts,js,html,css,go,rust,ruby)]
+[![Skills:](https://skillicons.dev/icons?i=py,c,cpp,java,ts,js,html,css,javascript,react)]
 
 
 
