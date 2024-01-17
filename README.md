@@ -1,11 +1,11 @@
-# Hello, I'm Lance! 👋
+# Hi, I'm Lance! 👋
 
 Welcome to my page! I'm currently in my fourth year at the University of Toronto, deeply immersed in the realms of technology and software development. My journey is fueled by a blend of computer science knowledge and a robust foundation in software engineering. I'm driven by the ambition to create a significant impact in the world through innovative coding practices.
 
 **Important Note: During my internships, I worked with private GitHub repositories. As a result, not all of my contributions are visible publicly.**
 
 
-## 💼 Previous Experience
+## Previous Experience
 
 ### Karpool (Summer 2023)
 • Utilized React Native, MongoDB, and Node.js within an Azure ecosystem for end-to-end full-stack development.
@@ -20,7 +20,7 @@ Welcome to my page! I'm currently in my fourth year at the University of Toronto
 • Worked collaboratively in a multicultural team setting to craft and execute user-friendly interfaces, enhancing both user experience and accessibility.
 
 
-## 📚 My Interests
+## My Interests
 
 Coding is just one part of my life. I'm also passionate about various activities, including:
 
