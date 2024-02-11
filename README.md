@@ -29,7 +29,7 @@ Coding is just one part of my life. I'm also passionate about various activities
 - **Gaming:** 👾 - Avid fan of all things Pokémon.
 
 
-I'm always up for making new connections or having a chat. Don't hesitate to connect with me on [LinkedIn.](https://www.linkedin.com/in/lancenigel/)
+I'm always up for making new connections or having a chat. Don't hesitate to connect with me on [LinkedIn.]([https://www.linkedin.com/in/lancenigel/](https://www.linkedin.com/in/lancenigelmadarang/))
 Wishing you a fantastic year ahead! 😊
 
 ## Tools
